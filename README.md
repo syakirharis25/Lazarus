@@ -9,7 +9,7 @@ My works related to Lazarus cross-platform visual integrated development environ
 <a name="introduction"></a>
 ## 1. Introduction.
 <img src="express.png" height="150"> 
-Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development. It has variety of components ready for use and a graphical form designer to easily create complex graphical user interfaces. Delphi is an event-driven programming language based on Object Pascal and an associated integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software, currently developed and maintained by Embarcadero Technologies.
+Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development. It has variety of components ready for use and a graphical form designer to easily create complex graphical user interfaces. Delphi is an event-driven programming language based on Object Pascal and an associated integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software, currently developed and maintained by Embarcadero Technologies.<br /><br />
 
 Lazarus is a free cross-platform visual integrated development environment (IDE) for rapid application development (RAD) using the Free Pascal compiler. Software developers use Lazarus to create native-code console and graphical user interface (GUI) applications for the desktop, and also for mobile devices, web applications, web services, visual components and function libraries for a number of different platforms, including Mac, Linux and Windows.
 
