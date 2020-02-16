@@ -22,6 +22,7 @@ Lazarus official website : https://www.lazarus-ide.org <br />
 Lazarus IDE website : https://www.getlazarus.org <br />
 
 Free Pascal official website : https://www.freepascal.org <br />
+Free Pascal GitHub releases : https://github.com/LongDirtyAnimAlf/fpcupdeluxe/releases <br />
 
 <a name="freepascal"></a>
 ## 3. Free Pascal.
