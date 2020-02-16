@@ -1,0 +1,255 @@
+ [2020-02-16 10:24:36.963 Info] 16-Feb-20 10:24:36: fpcupdeluxe: V201 (20200125) started.
+ [2020-02-16 10:25:31.102 Info] FPCNativeInstaller (GetFile): SVN download and unpacking ok. Not going to search SVN client itself in C:\lazarus\fpcbootstrap\svn\
+ [2020-02-16 10:25:31.122 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 10:25:31.122 Info] FPCNativeInstaller (FindSVNSubDirs): FPC directory:      C:\lazarus\fpcsrc
+ [2020-02-16 10:25:31.122 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:            https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:        
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): Bootstrap compiler dir: C:\lazarus\fpcbootstrap\
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:                https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:            
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): FPC source directory:   C:\lazarus\fpcsrc
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): FPC install directory:  C:\lazarus\fpc
+ [2020-02-16 10:25:31.123 Info] FPCNativeInstaller (FindSVNSubDirs): Make/binutils path:     C:\lazarus\fpcbootstrap
+ [2020-02-16 10:25:31.124 Info] FPCNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap;C:\lazarus\fpc;C:\lazarus\fpc\bin;C:\lazarus\fpc\utils;C:\lazarus\fpcsrc;C:\lazarus\fpcsrc\compiler;C:\lazarus\fpcsrc\utils;C:\lazarus\fpcbootstrap\svn
+ [2020-02-16 10:25:33.336 Info] Directory C:\lazarus\fpcsrc is not an SVN repository (or a repository with the wrong remote URL).
+ [2020-02-16 10:25:33.356 Info] FPCNativeInstaller (DownloadFromSVN: FPC): Creating directory C:\lazarus\fpcsrc for SVN checkout.
+ [2020-02-16 10:49:30.820 Info] 16-Feb-20 10:49:30: fpcupdeluxe: V201 (20200125) started.
+ [2020-02-16 10:50:29.091 Info] FPCNativeInstaller (GetFile): SVN download and unpacking ok. Not going to search SVN client itself in C:\fpcupdeluxe\fpcbootstrap\svn\
+ [2020-02-16 10:50:29.104 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 10:50:29.104 Info] FPCNativeInstaller (FindSVNSubDirs): FPC directory:      C:\fpcupdeluxe\fpcsrc
+ [2020-02-16 10:50:29.104 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:            https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 10:50:29.104 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:        
+ [2020-02-16 10:50:29.104 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 10:50:29.104 Info] FPCNativeInstaller (FindSVNSubDirs): Bootstrap compiler dir: C:\fpcupdeluxe\fpcbootstrap\
+ [2020-02-16 10:50:29.104 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:                https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 10:50:29.105 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:            
+ [2020-02-16 10:50:29.105 Info] FPCNativeInstaller (FindSVNSubDirs): FPC source directory:   C:\fpcupdeluxe\fpcsrc
+ [2020-02-16 10:50:29.105 Info] FPCNativeInstaller (FindSVNSubDirs): FPC install directory:  C:\fpcupdeluxe\fpc
+ [2020-02-16 10:50:29.105 Info] FPCNativeInstaller (FindSVNSubDirs): Make/binutils path:     C:\fpcupdeluxe\fpcbootstrap
+ [2020-02-16 10:50:29.105 Info] FPCNativeInstaller (SetPath): External program path:  C:\fpcupdeluxe\fpc\bin\x86_64-win64;C:\fpcupdeluxe\fpcbootstrap;C:\fpcupdeluxe\fpcbootstrap;C:\fpcupdeluxe\fpc;C:\fpcupdeluxe\fpc\bin;C:\fpcupdeluxe\fpc\utils;C:\fpcupdeluxe\fpcsrc;C:\fpcupdeluxe\fpcsrc\compiler;C:\fpcupdeluxe\fpcsrc\utils;C:\fpcupdeluxe\fpcbootstrap\svn
+ [2020-02-16 10:54:39.842 Info] 16-Feb-20 10:54:39: fpcupdeluxe: V201 (20200125) started.
+ [2020-02-16 10:55:13.052 Info] FPCNativeInstaller (GetFile): SVN download and unpacking ok. Not going to search SVN client itself in C:\lazarus\fpcbootstrap\svn\
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): FPC directory:      C:\lazarus\fpcsrc
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:            https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:        
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): Bootstrap compiler dir: C:\lazarus\fpcbootstrap\
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:                https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:            
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): FPC source directory:   C:\lazarus\fpcsrc
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): FPC install directory:  C:\lazarus\fpc
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (FindSVNSubDirs): Make/binutils path:     C:\lazarus\fpcbootstrap
+ [2020-02-16 10:55:13.083 Info] FPCNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap;C:\lazarus\fpc;C:\lazarus\fpc\bin;C:\lazarus\fpc\utils;C:\lazarus\fpcsrc;C:\lazarus\fpcsrc\compiler;C:\lazarus\fpcsrc\utils;C:\lazarus\fpcbootstrap\svn
+ [2020-02-16 10:55:14.442 Info] Directory C:\lazarus\fpcsrc is not an SVN repository (or a repository with the wrong remote URL).
+ [2020-02-16 10:55:14.458 Info] FPCNativeInstaller (DownloadFromSVN: FPC): Creating directory C:\lazarus\fpcsrc for SVN checkout.
+ [2020-02-16 11:18:46.762 Info] FPCNativeInstaller (DownloadFromSVN: FPC): SVN gave error code: 1
+ [2020-02-16 11:18:46.777 Info] FPCNativeInstaller (DownloadFromSVN: FPC): SVN gave error message: Path: C:\lazarus\fpcsrc
+Working Copy Root Path: C:\lazarus\fpcsrc
+URL: https://svn.freepascal.org/svn/fpc/trunk
+Relative URL: ^/trunk
+Repository Root: https://svn.freepascal.org/svn/fpc
+Repository UUID: 3ad0048d-3df7-0310-abae-a5850022a9f2
+Revision: 44186
+Node Kind: directory
+Schedule: normal
+
+
+ [2020-02-16 11:21:52.403 Info] 16-Feb-20 11:21:52: fpcupdeluxe: V201 (20200125) started.
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): FPC directory:      C:\lazarus\fpcsrc
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:            https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:        
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): Bootstrap compiler dir: C:\lazarus\fpcbootstrap\
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:                https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:            
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): FPC source directory:   C:\lazarus\fpcsrc
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): FPC install directory:  C:\lazarus\fpc
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (FindSVNSubDirs): Make/binutils path:     C:\lazarus\fpcbootstrap
+ [2020-02-16 11:21:53.215 Info] FPCNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap;C:\lazarus\fpc;C:\lazarus\fpc\bin;C:\lazarus\fpc\utils;C:\lazarus\fpcsrc;C:\lazarus\fpcsrc\compiler;C:\lazarus\fpcsrc\utils;C:\lazarus\fpcbootstrap\svn
+ [2020-02-16 11:38:56.518 Info] FPCNativeInstaller (GetModule: FPC): FPC has been patched successfully with C:\lazarus\patchfpc\fpcpatch_all_makesearchpath.patch.
+ [2020-02-16 11:38:56.705 Info] FPCNativeInstaller (GetModule: FPC): FPC has been patched successfully with C:\lazarus\patchfpc\fpcpatch_darwin_makepackages.patch.
+ [2020-02-16 11:38:56.940 Info] FPCNativeInstaller (GetModule: FPC): FPC has been patched successfully with C:\lazarus\patchfpc\fpcpatch_dragonfly.patch.
+ [2020-02-16 11:38:57.159 Info] FPCNativeInstaller (GetModule: FPC): FPC has been patched successfully with C:\lazarus\patchfpc\fpcpatch_haiku.patch.
+ [2020-02-16 11:38:57.393 Info] FPCNativeInstaller (GetModule: FPC): FPC has been patched successfully with C:\lazarus\patchfpc\fpcpatch_linux_linker.patch.
+ [2020-02-16 11:38:57.456 Info] FPCNativeInstaller (CheckAndGetTools): Init:
+ [2020-02-16 11:38:57.456 Info] FPCNativeInstaller (CheckAndGetTools): FPC directory:      C:\lazarus\fpcsrc
+ [2020-02-16 11:38:57.456 Info] FPCNativeInstaller (CheckAndGetTools): FPC URL:            https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 11:38:57.456 Info] FPCNativeInstaller (CheckAndGetTools): FPC options:        
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (GetFile): Init:
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (GetFile): Bootstrap compiler dir: C:\lazarus\fpcbootstrap\
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (GetFile): FPC URL:                https://svn.freepascal.org/svn/fpc/trunk
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (GetFile): FPC options:            
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (GetFile): FPC source directory:   C:\lazarus\fpcsrc
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (GetFile): FPC install directory:  C:\lazarus\fpc
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (GetFile): Make/binutils path:     C:\lazarus\fpcbootstrap
+ [2020-02-16 11:48:49.000 Info] FPCNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap;C:\lazarus\fpc;C:\lazarus\fpc\bin;C:\lazarus\fpc\utils;C:\lazarus\fpcsrc;C:\lazarus\fpcsrc\compiler;C:\lazarus\fpcsrc\utils;C:\lazarus\fpcbootstrap\svn
+ [2020-02-16 11:55:08.200 Info] FPCNativeInstaller (CleanModule: FPC): Execute: C:\lazarus\fpcbootstrap\make.exe. Params: --jobs=1,FPC=C:\lazarus\fpcbootstrap\ppcx64.exe,--directory=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,FPCDIR=C:\lazarus\fpcsrc,PREFIX=C:\lazarus\fpc,INSTALL_PREFIX=C:\lazarus\fpc,UPXPROG=echo,COPYTREE=echo,CPU_SOURCE=x86_64,OS_SOURCE=win64,CPU_TARGET=x86_64,OS_TARGET=win64,distclean
+ [2020-02-16 11:55:08.216 Info] FPCNativeInstaller (SimpleExportFromSVN: DownloadBinUtils): Verbose output saved to C:\Users\syaki\AppData\Local\Temp\FPCUPLOG00000.log
+ [2020-02-16 11:56:13.959 Info] FPCNativeInstaller (CleanModule: FPC): Execute: C:\lazarus\fpcbootstrap\make.exe. Params: --jobs=1,FPC=C:\lazarus\fpcbootstrap\ppcx64.exe,--directory=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,FPCDIR=C:\lazarus\fpcsrc,PREFIX=C:\lazarus\fpc,INSTALL_PREFIX=C:\lazarus\fpc,UPXPROG=echo,COPYTREE=echo,CPU_SOURCE=x86_64,OS_SOURCE=win64,CPU_TARGET=x86_64,OS_TARGET=win64,distclean
+ [2020-02-16 12:07:20.249 Error] FPCNativeInstaller (CleanModule: FPC): Error running C:\lazarus\fpcbootstrap\make.exe for FPC failed with exit code 2
+. Details: 
+ [2020-02-16 16:30:56.236 Info] 16-Feb-20 16:30:56: fpcupdeluxe: V201 (20200125) started.
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): FPC directory:      C:\lazarus\fpcsrc
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:            https://svn.freepascal.org/svn/fpc/branches/fixes_3_2
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:        
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): Bootstrap compiler dir: C:\lazarus\fpcbootstrap\
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:                https://svn.freepascal.org/svn/fpc/branches/fixes_3_2
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:            
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): FPC source directory:   C:\lazarus\fpcsrc
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): FPC install directory:  C:\lazarus\fpc
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (FindSVNSubDirs): Make/binutils path:     C:\lazarus\fpcbootstrap
+ [2020-02-16 16:30:56.985 Info] FPCNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap;C:\lazarus\fpc;C:\lazarus\fpc\bin;C:\lazarus\fpc\utils;C:\lazarus\fpcsrc;C:\lazarus\fpcsrc\compiler;C:\lazarus\fpcsrc\utils;C:\lazarus\fpcbootstrap\svn
+ [2020-02-16 16:30:57.407 Info] FPCNativeInstaller (CleanModule: FPC): Execute: C:\lazarus\fpcbootstrap\make.exe. Params: --jobs=1,FPC=C:\lazarus\fpcbootstrap\ppcx64.exe,--directory=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,FPCDIR=C:\lazarus\fpcsrc,PREFIX=C:\lazarus\fpc,INSTALL_PREFIX=C:\lazarus\fpc,UPXPROG=echo,COPYTREE=echo,CPU_SOURCE=x86_64,OS_SOURCE=win64,CPU_TARGET=x86_64,OS_TARGET=win64,distclean
+ [2020-02-16 16:30:57.423 Info] FPCNativeInstaller (FindSVNSubDirs): Verbose output saved to C:\Users\syaki\AppData\Local\Temp\FPCUPLOG00001.log
+ [2020-02-16 16:32:02.858 Info] FPCNativeInstaller (CleanModule: FPC): Execute: C:\lazarus\fpcbootstrap\make.exe. Params: --jobs=1,FPC=C:\lazarus\fpcbootstrap\ppcx64.exe,--directory=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,FPCDIR=C:\lazarus\fpcsrc,PREFIX=C:\lazarus\fpc,INSTALL_PREFIX=C:\lazarus\fpc,UPXPROG=echo,COPYTREE=echo,CPU_SOURCE=x86_64,OS_SOURCE=win64,CPU_TARGET=x86_64,OS_TARGET=win64,distclean
+ [2020-02-16 16:52:20.202 Info] 16-Feb-20 16:52:20: fpcupdeluxe: V201 (20200125) started.
+ [2020-02-16 16:54:05.160 Info] FPCNativeInstaller (GetFile): SVN download and unpacking ok. Not going to search SVN client itself in C:\lazarus\fpcbootstrap\svn\
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): FPC directory:      C:\lazarus\fpcsrc
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:            https://svn.freepascal.org/svn/fpc/tags/release_3_0_4
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:        
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): Init:
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): Bootstrap compiler dir: C:\lazarus\fpcbootstrap\
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): FPC URL:                https://svn.freepascal.org/svn/fpc/tags/release_3_0_4
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): FPC options:            
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): FPC source directory:   C:\lazarus\fpcsrc
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): FPC install directory:  C:\lazarus\fpc
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (FindSVNSubDirs): Make/binutils path:     C:\lazarus\fpcbootstrap
+ [2020-02-16 16:54:05.191 Info] FPCNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap;C:\lazarus\fpc;C:\lazarus\fpc\bin;C:\lazarus\fpc\utils;C:\lazarus\fpcsrc;C:\lazarus\fpcsrc\compiler;C:\lazarus\fpcsrc\utils;C:\lazarus\fpcbootstrap\svn
+ [2020-02-16 16:54:06.144 Info] Directory C:\lazarus\fpcsrc is not an SVN repository (or a repository with the wrong remote URL).
+ [2020-02-16 16:54:06.160 Info] FPCNativeInstaller (DownloadFromSVN: FPC): Creating directory C:\lazarus\fpcsrc for SVN checkout.
+ [2020-02-16 17:13:39.558 Info] FPCNativeInstaller (GetModule: FPC): FPC has been patched successfully with C:\lazarus\patchfpc\fpcpatch_all_makesearchpath_stable_3_0_4.patch.
+ [2020-02-16 17:13:39.777 Info] FPCNativeInstaller (GetModule: FPC): FPC has been patched successfully with C:\lazarus\patchfpc\fpcpatch_linux_linker_stable_3_0_4.patch.
+ [2020-02-16 17:13:39.840 Info] FPCNativeInstaller (CheckAndGetTools): Init:
+ [2020-02-16 17:13:39.840 Info] FPCNativeInstaller (CheckAndGetTools): FPC directory:      C:\lazarus\fpcsrc
+ [2020-02-16 17:13:39.840 Info] FPCNativeInstaller (CheckAndGetTools): FPC URL:            https://svn.freepascal.org/svn/fpc/tags/release_3_0_4
+ [2020-02-16 17:13:39.840 Info] FPCNativeInstaller (CheckAndGetTools): FPC options:        
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (GetFile): Init:
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (GetFile): Bootstrap compiler dir: C:\lazarus\fpcbootstrap\
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (GetFile): FPC URL:                https://svn.freepascal.org/svn/fpc/tags/release_3_0_4
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (GetFile): FPC options:            
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (GetFile): FPC source directory:   C:\lazarus\fpcsrc
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (GetFile): FPC install directory:  C:\lazarus\fpc
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (GetFile): Make/binutils path:     C:\lazarus\fpcbootstrap
+ [2020-02-16 17:22:19.704 Info] FPCNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap;C:\lazarus\fpc;C:\lazarus\fpc\bin;C:\lazarus\fpc\utils;C:\lazarus\fpcsrc;C:\lazarus\fpcsrc\compiler;C:\lazarus\fpcsrc\utils;C:\lazarus\fpcbootstrap\svn
+ [2020-02-16 17:35:34.622 Info] FPCNativeInstaller (CleanModule: FPC): Execute: C:\lazarus\fpcbootstrap\make.exe. Params: --jobs=1,FPC=C:\lazarus\fpcbootstrap\ppcx64.exe,--directory=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,FPCDIR=C:\lazarus\fpcsrc,PREFIX=C:\lazarus\fpc,INSTALL_PREFIX=C:\lazarus\fpc,UPXPROG=echo,COPYTREE=echo,CPU_SOURCE=x86_64,OS_SOURCE=win64,CPU_TARGET=x86_64,OS_TARGET=win64,distclean
+ [2020-02-16 17:35:34.638 Info] FPCNativeInstaller (SimpleExportFromSVN: DownloadBinUtils): Verbose output saved to C:\Users\syaki\AppData\Local\Temp\FPCUPLOG00002.log
+ [2020-02-16 17:36:24.435 Info] FPCNativeInstaller (CleanModule: FPC): Execute: C:\lazarus\fpcbootstrap\make.exe. Params: --jobs=1,FPC=C:\lazarus\fpcbootstrap\ppcx64.exe,--directory=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,FPCDIR=C:\lazarus\fpcsrc,PREFIX=C:\lazarus\fpc,INSTALL_PREFIX=C:\lazarus\fpc,UPXPROG=echo,COPYTREE=echo,CPU_SOURCE=x86_64,OS_SOURCE=win64,CPU_TARGET=x86_64,OS_TARGET=win64,distclean
+ [2020-02-16 17:46:08.357 Info] FPCNativeInstaller (CleanModule: FPC): Update/build/config succeeded.
+ [2020-02-16 17:46:08.592 Info] LazarusNativeInstaller (InitModule): Lazarus directory:      C:\lazarus\lazarus
+ [2020-02-16 17:46:08.592 Info] LazarusNativeInstaller (InitModule): Lazarus URL:            https://svn.freepascal.org/svn/lazarus/tags/lazarus_2_0_6
+ [2020-02-16 17:46:08.592 Info] LazarusNativeInstaller (InitModule): Lazarus options:        
+ [2020-02-16 17:46:09.295 Info] LazarusNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpc;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap\svn;C:\lazarus\lazarus
+ [2020-02-16 17:46:10.185 Info] Directory C:\lazarus\lazarus is not an SVN repository (or a repository with the wrong remote URL).
+ [2020-02-16 17:46:10.201 Info] LazarusNativeInstaller (DownloadFromSVN: Lazarus): Creating directory C:\lazarus\lazarus for SVN checkout.
+ [2020-02-16 18:02:38.832 Info] LazarusNativeInstaller (GetModule: Lazarus): Lazarus has been patched successfully with C:\lazarus\patchlazarus\lazpatch_useride_stable_2_0_6.patch.
+ [2020-02-16 18:02:39.614 Info] LazarusNativeInstaller (BuildModuleCustom: Lazbuild): C:\lazarus\fpcbootstrap\make.exe. Params: FPC=C:\lazarus\fpc\bin\x86_64-win64\fpc.exe,PP=C:\lazarus\fpc\bin\x86_64-win64\ppcx64.exe,USESVN2REVISIONINC=0,--directory=.,PREFIX=C:\lazarus\lazarus,INSTALL_PREFIX=C:\lazarus\lazarus,FPCDIR=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,UPXPROG=echo,COPYTREE=echo,OPT=-vw-n-h-l-d-u-t-p-c-,lazbuild
+ [2020-02-16 18:02:39.629 Info] LazarusNativeInstaller (GetFile): Verbose output saved to C:\Users\syaki\AppData\Local\Temp\FPCUPLOG00003.log
+ [2020-02-16 18:05:08.280 Info] LazarusNativeInstaller (BuildModuleCustom: UserIDE): C:\lazarus\fpcbootstrap\make.exe. Params: FPC=C:\lazarus\fpc\bin\x86_64-win64\fpc.exe,PP=C:\lazarus\fpc\bin\x86_64-win64\ppcx64.exe,USESVN2REVISIONINC=0,--directory=.,PREFIX=C:\lazarus\lazarus,INSTALL_PREFIX=C:\lazarus\lazarus,FPCDIR=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,UPXPROG=echo,COPYTREE=echo,OPT=-vw-n-h-l-d-u-t-p-c-,registration,lazutils,lcl,basecomponents,ide
+ [2020-02-16 18:09:17.079 Info] LazarusNativeInstaller (InitModule): Lazarus directory:      C:\lazarus\lazarus
+ [2020-02-16 18:09:17.079 Info] LazarusNativeInstaller (InitModule): Lazarus URL:            https://svn.freepascal.org/svn/lazarus/tags/lazarus_2_0_6
+ [2020-02-16 18:09:17.079 Info] LazarusNativeInstaller (InitModule): Lazarus options:        
+ [2020-02-16 18:09:17.735 Info] LazarusNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpc;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap\svn;C:\lazarus\lazarus
+ [2020-02-16 18:09:19.563 Info] LazarusNativeInstaller (BuildModuleCustom: StartLazarus): C:\lazarus\fpcbootstrap\make.exe. Params: FPC=C:\lazarus\fpc\bin\x86_64-win64\fpc.exe,PP=C:\lazarus\fpc\bin\x86_64-win64\ppcx64.exe,USESVN2REVISIONINC=0,--directory=.,PREFIX=C:\lazarus\lazarus,INSTALL_PREFIX=C:\lazarus\lazarus,FPCDIR=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,UPXPROG=echo,COPYTREE=echo,OPT=-vw-n-h-l-d-u-t-p-c-,starter
+ [2020-02-16 18:09:19.579 Info] LazarusNativeInstaller (FindSVNSubDirs): Verbose output saved to C:\Users\syaki\AppData\Local\Temp\FPCUPLOG00004.log
+ [2020-02-16 18:09:44.104 Info] UniversalInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpc;;C:\Python27\;C:\Python27\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Go\bin;C:\Users\syaki\AppData\Local\Microsoft\WindowsApps;C:\Users\syaki\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\syaki\AppData\Local\GitHubDesktop\bin;C:\Users\syaki\AppData\Local\atom\bin;C:\Users\syaki\AppData\Roaming\npm;C:\Users\syaki\go\bin
+ [2020-02-16 18:09:44.104 Info] UniversalInstaller (GetModule: suggestedpackages): Getting module suggestedpackages
+ [2020-02-16 18:09:44.645 Info] UniversalInstaller (BuildModule: suggestedpackages): Building module suggestedpackages running all InstallExecute commands in: 
+Name=suggestedpackages
+Description="Selection of various IDE packages that can be handy when developing"
+Enabled=1
+AddPackage1=$(lazarusdir)/components/tdbf/dbflaz.lpk
+AddPackage2=$(lazarusdir)/components/fpcunit/ide/fpcunitide.lpk
+AddPackage3=$(lazarusdir)/components/daemon/lazdaemon.lpk
+AddPackage4=$(lazarusdir)/components/leakview/leakview.lpk
+AddPackage5=$(lazarusdir)/components/tachart/tachartlazaruspkg.lpk
+AddPackage6=$(lazarusdir)/components/codetools/ide/cody.lpk
+AddPackage7=$(lazarusdir)/components/sdf/sdflaz.lpk
+AddPackage8=$(lazarusdir)/components/projecttemplates/projtemplates.lpk
+AddPackage9=$(lazarusdir)/components/sqldb/sqldblaz.lpk
+AddPackage10=$(lazarusdir)/components/memds/memdslaz.lpk
+AddPackage12=$(lazarusdir)/components/jcf2/IdePlugin/lazarus/jcfidelazarus.lpk
+AddPackage13=$(lazarusdir)/components/chmhelp/packages/idehelp/chmhelppkg.lpk
+AddPackage14=$(lazarusdir)/components/instantfpc/instantfpclaz.lpk
+AddPackage15=$(lazarusdir)/components/externhelp/externhelp.lpk
+AddPackage16=$(lazarusdir)/components/datetimectrls/datetimectrls.lpk
+AddPackage17=$(lazarusdir)/components/datetimectrls/design/datetimectrlsdsgn.lpk
+AddPackage18=$(lazarusdir)/components/lazcontrols/design/lazcontroldsgn.lpk
+AddPackage19=$(lazarusdir)/components/projectgroups/lazprojectgroups.lpk
+Category=miscellaneous
+
+ [2020-02-16 18:09:44.707 Info] UniversalInstaller (BuildModule: suggestedpackages): Building module suggestedpackages running all CreateInstaller commands in: 
+Name=suggestedpackages
+Description="Selection of various IDE packages that can be handy when developing"
+Enabled=1
+AddPackage1=$(lazarusdir)/components/tdbf/dbflaz.lpk
+AddPackage2=$(lazarusdir)/components/fpcunit/ide/fpcunitide.lpk
+AddPackage3=$(lazarusdir)/components/daemon/lazdaemon.lpk
+AddPackage4=$(lazarusdir)/components/leakview/leakview.lpk
+AddPackage5=$(lazarusdir)/components/tachart/tachartlazaruspkg.lpk
+AddPackage6=$(lazarusdir)/components/codetools/ide/cody.lpk
+AddPackage7=$(lazarusdir)/components/sdf/sdflaz.lpk
+AddPackage8=$(lazarusdir)/components/projecttemplates/projtemplates.lpk
+AddPackage9=$(lazarusdir)/components/sqldb/sqldblaz.lpk
+AddPackage10=$(lazarusdir)/components/memds/memdslaz.lpk
+AddPackage12=$(lazarusdir)/components/jcf2/IdePlugin/lazarus/jcfidelazarus.lpk
+AddPackage13=$(lazarusdir)/components/chmhelp/packages/idehelp/chmhelppkg.lpk
+AddPackage14=$(lazarusdir)/components/instantfpc/instantfpclaz.lpk
+AddPackage15=$(lazarusdir)/components/externhelp/externhelp.lpk
+AddPackage16=$(lazarusdir)/components/datetimectrls/datetimectrls.lpk
+AddPackage17=$(lazarusdir)/components/datetimectrls/design/datetimectrlsdsgn.lpk
+AddPackage18=$(lazarusdir)/components/lazcontrols/design/lazcontroldsgn.lpk
+AddPackage19=$(lazarusdir)/components/projectgroups/lazprojectgroups.lpk
+Category=miscellaneous
+
+ [2020-02-16 18:09:44.770 Info] UniversalInstaller (InstallPackage): Installing dbflaz version 0.1.1
+ [2020-02-16 18:09:44.785 Info] UniversalInstaller (InstallPackage): Verbose output saved to C:\Users\syaki\AppData\Local\Temp\FPCUPLOG00005.log
+ [2020-02-16 18:09:46.270 Info] UniversalInstaller (InstallPackage): Checking lpl file for dbflaz
+ [2020-02-16 18:09:46.285 Info] UniversalInstaller (InstallPackage): Installing fpcunitide version 0.1
+ [2020-02-16 18:09:46.910 Info] UniversalInstaller (InstallPackage): Checking lpl file for fpcunitide
+ [2020-02-16 18:09:46.926 Info] UniversalInstaller (InstallPackage): Installing lazdaemon version 0.9.9
+ [2020-02-16 18:09:47.582 Info] UniversalInstaller (InstallPackage): Checking lpl file for lazdaemon
+ [2020-02-16 18:09:48.089 Info] UniversalInstaller (InstallPackage): Installing CmdLineDebuggerBase
+ [2020-02-16 18:09:48.558 Info] UniversalInstaller (InstallPackage): Installing LazDebuggerLldb
+ [2020-02-16 18:09:49.027 Info] UniversalInstaller (InstallPackage): Installing leakview version 1
+ [2020-02-16 18:09:49.495 Info] UniversalInstaller (InstallPackage): Checking lpl file for leakview
+ [2020-02-16 18:09:49.511 Info] UniversalInstaller (InstallPackage): Installing tachartlazaruspkg version 1
+ [2020-02-16 18:09:49.964 Info] UniversalInstaller (InstallPackage): Checking lpl file for tachartlazaruspkg
+ [2020-02-16 18:09:49.980 Info] UniversalInstaller (InstallPackage): Installing cody version 1.1
+ [2020-02-16 18:09:50.433 Info] UniversalInstaller (InstallPackage): Checking lpl file for cody
+ [2020-02-16 18:09:50.449 Info] UniversalInstaller (InstallPackage): Installing sdflaz version 0.1.1
+ [2020-02-16 18:09:50.902 Info] UniversalInstaller (InstallPackage): Checking lpl file for sdflaz
+ [2020-02-16 18:09:50.917 Info] UniversalInstaller (InstallPackage): Installing projtemplates version 1
+ [2020-02-16 18:09:51.370 Info] UniversalInstaller (InstallPackage): Checking lpl file for projtemplates
+ [2020-02-16 18:09:51.386 Info] UniversalInstaller (InstallPackage): Installing sqldblaz version 1.0.2
+ [2020-02-16 18:09:51.848 Info] UniversalInstaller (InstallPackage): Checking lpl file for sqldblaz
+ [2020-02-16 18:09:51.864 Info] UniversalInstaller (InstallPackage): Installing memdslaz version 1.2.1
+ [2020-02-16 18:09:52.317 Info] UniversalInstaller (InstallPackage): Checking lpl file for memdslaz
+ [2020-02-16 18:09:52.332 Info] UniversalInstaller (InstallPackage): Installing jcfidelazarus version 2
+ [2020-02-16 18:09:52.816 Info] UniversalInstaller (InstallPackage): Checking lpl file for jcfidelazarus
+ [2020-02-16 18:09:53.081 Info] UniversalInstaller (InstallPackage): Installing lhelpcontrolpkg
+ [2020-02-16 18:09:53.535 Info] UniversalInstaller (InstallPackage): Installing chmhelppkg version 0.2
+ [2020-02-16 18:09:54.003 Info] UniversalInstaller (InstallPackage): Checking lpl file for chmhelppkg
+ [2020-02-16 18:09:54.019 Info] UniversalInstaller (InstallPackage): Installing instantfpclaz version 1
+ [2020-02-16 18:09:54.472 Info] UniversalInstaller (InstallPackage): Checking lpl file for instantfpclaz
+ [2020-02-16 18:09:54.488 Info] UniversalInstaller (InstallPackage): Installing externhelp version 1.3
+ [2020-02-16 18:09:54.950 Info] UniversalInstaller (InstallPackage): Checking lpl file for externhelp
+ [2020-02-16 18:09:54.965 Info] UniversalInstaller (InstallPackage): Installing datetimectrls version 1.5.1
+ [2020-02-16 18:09:55.418 Info] UniversalInstaller (InstallPackage): Checking lpl file for datetimectrls
+ [2020-02-16 18:09:55.668 Info] UniversalInstaller (InstallPackage): Installing DateTimeCtrls
+ [2020-02-16 18:09:56.137 Info] UniversalInstaller (InstallPackage): Installing datetimectrlsdsgn version 1.5.1
+ [2020-02-16 18:09:56.589 Info] UniversalInstaller (InstallPackage): Checking lpl file for datetimectrlsdsgn
+ [2020-02-16 18:09:56.605 Info] UniversalInstaller (InstallPackage): Installing lazcontroldsgn version 0
+ [2020-02-16 18:09:57.073 Info] UniversalInstaller (InstallPackage): Checking lpl file for lazcontroldsgn
+ [2020-02-16 18:09:57.089 Info] UniversalInstaller (InstallPackage): Installing lazprojectgroups version 0.7
+ [2020-02-16 18:09:57.548 Info] UniversalInstaller (InstallPackage): Checking lpl file for lazprojectgroups
+ [2020-02-16 18:09:57.611 Info] UniversalInstaller (ConfigModule: suggestedpackages): C:\lazarus\fpcbootstrap\make.exe. Params: FPC=C:\lazarus\fpc\bin\x86_64-win64\fpc.exe,PP=C:\lazarus\fpc\bin\x86_64-win64\ppcx64.exe,USESVN2REVISIONINC=0,--directory=.,FPCDIR=C:\lazarus\fpcsrc,FPCMAKE=C:\lazarus\fpc\bin\x86_64-win64\fpcmake.exe,PPUMOVE=C:\lazarus\fpc\bin\x86_64-win64\ppumove.exe,CFGFILE=C:\lazarus\config_lazarus\idemake.cfg,UPXPROG=echo,COPYTREE=echo,LAZBUILDJOBS=4,useride
+ [2020-02-16 18:11:44.994 Info] LazarusNativeInstaller (InitModule): Lazarus directory:      C:\lazarus\lazarus
+ [2020-02-16 18:11:44.994 Info] LazarusNativeInstaller (InitModule): Lazarus URL:            https://svn.freepascal.org/svn/lazarus/tags/lazarus_2_0_6
+ [2020-02-16 18:11:44.994 Info] LazarusNativeInstaller (InitModule): Lazarus options:        
+ [2020-02-16 18:11:48.010 Info] LazarusNativeInstaller (SetPath): External program path:  C:\lazarus\fpc\bin\x86_64-win64;C:\lazarus\fpc;C:\lazarus\fpcbootstrap;C:\lazarus\fpcbootstrap\svn;C:\lazarus\lazarus
