@@ -6,7 +6,8 @@ My works related to Lazarus cross-platform visual integrated development environ
 2. [Official references websites.](#references)
 3. [Free Pascal.](#freepascal)
 4. [Starting Lazarus in Microsoft Windows environment.](#starting)
-5. [GitHub notes.](#github)
+5. [Shortcuts.](#shortcuts) 
+6. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -39,6 +40,11 @@ Separate projects exist to facilitate developing cross-platform graphical user i
 <a name="starting"></a>
 ## 4. Starting Lazarus in Microsoft Windows environment.
 To start the Lazarus IDE, you should start from `C:\installation_folder\lazarus\startlazarus.exe` to avoid any conflict in the future, or **[ Double Click Mouse ]** on the created Lazarus shortcut on your desktop.
+
+<a name="shortcuts"></a>
+## 5. Shortcuts.
+**[ Fn ]** + **[ F12 ]** : open form designer menu
+**[ Ctrl ]** + **[ Alt ]** + **[ P ]** : open command pallete
 
 <a name="github"></a>
 ## 4. GitHub notes.
