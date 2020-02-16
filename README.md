@@ -43,8 +43,8 @@ To start the Lazarus IDE, you should start from `C:\installation_folder\lazarus\
 
 <a name="shortcuts"></a>
 ## 5. Shortcuts.
-**[ Fn ]** + **[ F12 ]** : open form designer menu
-**[ Ctrl ]** + **[ Alt ]** + **[ P ]** : open command pallete
+**[ Fn ]** + **[ F12 ]** : open form designer menu <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ P ]** : open command pallete <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
