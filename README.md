@@ -19,6 +19,8 @@ An application created using Lazarus on one platform can generally compile and e
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Lazarus official website : https://www.lazarus-ide.org <br />
+Lazarus IDE website : https://www.getlazarus.org <br />
+
 Free Pascal official website : https://www.freepascal.org <br />
 
 <a name="freepascal"></a>
