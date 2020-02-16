@@ -19,10 +19,10 @@ An application created using Lazarus on one platform can generally compile and e
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Lazarus official website : https://www.lazarus-ide.org <br />
-Lazarus IDE website : https://www.getlazarus.org <br />
+Lazarus IDE installer website : https://www.getlazarus.org <br />
 
 Free Pascal official website : https://www.freepascal.org <br />
-Free Pascal GitHub releases : https://github.com/LongDirtyAnimAlf/fpcupdeluxe/releases <br />
+Free Pascal GitHub installer releases : https://github.com/LongDirtyAnimAlf/fpcupdeluxe/releases <br />
 
 <a name="freepascal"></a>
 ## 3. Free Pascal.
