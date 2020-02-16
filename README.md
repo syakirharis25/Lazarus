@@ -3,9 +3,10 @@ My works related to Lazarus cross-platform visual integrated development environ
 
 ## Table of Contents
 1. [Introduction.](#introduction)
-2. [Free Pascal.](#freepascal)
-3. [Official references websites.](#references)
-4. [GitHub notes.](#github)
+2. [Official references websites.](#references)
+3. [Free Pascal.](#freepascal)
+4. [Starting Lazarus in Microsoft Windows environment.](#starting)
+5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -34,7 +35,11 @@ It supports its own Object Pascal dialect, as well as the dialects of several ot
 It follows a write once, compile anywhere philosophy and is available for many CPU architectures and operating systems (see Targets). It supports inline assembly language and includes an internal assembler capable of parsing several dialects such as AT&T and Intel style.
 
 Separate projects exist to facilitate developing cross-platform graphical user interface (GUI) applications, the most prominent one being the Lazarus integrated development environment (IDE). Free Pascal Compiler (FPC) supported operating systems include Linux, FreeBSD, Haiku, Mac OS X/iOS/iPhoneSimulator/Darwin, DOS (16 and 32 bit), Win32, Win64, WinCE, OS/2, MorphOS, Nintendo GBA, Nintendo DS, Nintendo Wii, Android, AIX and AROS.
- 
+
+<a name="starting"></a>
+## 4. Starting Lazarus in Microsoft Windows environment.
+To start the Lazarus IDE, you should start from `C:\installation_folder\lazarus\startlazarus.exe` to avoid any conflict in the future, or **[ Double Click Mouse ]** on the created Lazarus shortcut on your desktop.
+
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
