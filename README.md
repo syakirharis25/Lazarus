@@ -39,7 +39,7 @@ Separate projects exist to facilitate developing cross-platform graphical user i
 
 <a name="starting"></a>
 ## 4. Starting Lazarus in Microsoft Windows environment.
-To start the Lazarus IDE, you should start from `C:\installation_folder\lazarus\startlazarus.exe` to avoid any conflict in the future, or **[ Double Click Mouse ]** on the created Lazarus shortcut on your desktop.
+To start the Lazarus IDE, you should start from `C:\installation_folder\lazarus\startlazarus.exe` to avoid any conflict in the future, or **[ Mouse Double Click ]** on the created Lazarus shortcut on your desktop.
 
 <a name="shortcuts"></a>
 ## 5. Shortcuts.
