@@ -8,6 +8,7 @@ My works related to Lazarus cross-platform visual integrated development environ
 4. [Starting Lazarus in Microsoft Windows environment.](#starting)
 5. [Shortcuts.](#shortcuts) 
 6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -47,7 +48,7 @@ To start the Lazarus IDE, you should start from `C:\installation_folder\lazarus\
 **[ Ctrl ]** + **[ Alt ]** + **[ P ]** : open command pallete <br />
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Lazarus.git
@@ -57,3 +58,18 @@ $ git status
 ```
 
 GitHub markdown-cheatsheet by tchap : https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+
+<a name="calculation"></a>
+## 7. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+INI                              3            216            388           1879
+Markdown                         1             11              0             48
+Pascal                           2             16              0             33
+-------------------------------------------------------------------------------
+SUM:                             6            243            388           1960
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
